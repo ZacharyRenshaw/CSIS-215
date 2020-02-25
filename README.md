@@ -1,2 +1,2 @@
-# CSIS215
+# CSIS-215
 Data Structures and Algorithms
