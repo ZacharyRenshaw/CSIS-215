@@ -1,0 +1,4 @@
+﻿  bagtestmain.cpp
+c:\users\zachary\desktop\assignment1-dictionary\assignment1-dictionary\book.h(78): warning C4005: 'INFINITY': macro redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\corecrt_math.h(90): note: see previous definition of 'INFINITY'
+  Assignment1-Dictionary.vcxproj -> C:\Users\Zachary\Desktop\Assignment1-Dictionary\Debug\Assignment1-Dictionary.exe
