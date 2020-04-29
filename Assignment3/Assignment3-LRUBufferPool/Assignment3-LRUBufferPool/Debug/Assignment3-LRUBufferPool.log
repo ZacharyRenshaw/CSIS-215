@@ -1,0 +1,3 @@
+﻿  main.cpp
+c:\users\zachary\desktop\assignment3-lrubufferpool\assignment3-lrubufferpool\lrubufferpool.h(43): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  Assignment3-LRUBufferPool.vcxproj -> C:\Users\Zachary\Desktop\Assignment3-LRUBufferPool\Debug\Assignment3-LRUBufferPool.exe
